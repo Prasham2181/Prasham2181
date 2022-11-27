@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about Front-end developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
-- linkedin.com/in/prasham-soni-182b07201
+- https://www.linkedin.com/in/prasham-soni-182b07201/
 - Ping me on :soniprashamgmail.com
 
 <!---
