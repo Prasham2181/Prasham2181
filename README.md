@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Robotics, Cloud Computing, Vision technology and curious about the emerging technical fields such as Devops,Machine Learning, AI and many more..
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 🌱 I’m currently learning about Front-end developement -->
-<p>I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of Computer Engineering that includes Vision,Robotic System frameworks,Web Developement and Machine Learning/Deep Learning algorithms to be applied to increase agility of robots. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.</p>
+<p>I am an enthusiastic engineering student with a desire to apply the concepts I have learnt to real-time, scalable solutions. Currently, I am exploring new areas of Computer Engineering that includes Vision,Robotic System frameworks,Web Developement and Machine Learning/Deep Learning algorithms. I am looking out for development opportunities in these fields and am constantly attempting to develop newer, practical solutions in these areas.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
