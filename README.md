@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Prasham Soni</h1>
 <h3 align="center">Just another overambitious lad</h3>
 
-- 🌱 I’m currently learning **Robotics**
+- 🌱 I’m currently learning **Robotics at Worcester Polytechnic Instutute**
 - 📫 How to reach me :- **https://www.linkedin.com/in/prasham-soni-182b07201/**
 - 👯 Ping me on :**soniprashamgmail.com**
 - 👀 I’m interested in Robotics, Cloud Computing, Vision technology and curious about the emerging technical fields such as Devops,Machine Learning, AI and many more..
