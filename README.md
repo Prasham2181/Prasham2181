@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasham2181&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasham2181&theme=radical" alt="Contribution Stats" />
 </p>
 
 ## 🏆 Featured Projects
