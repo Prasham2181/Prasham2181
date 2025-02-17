@@ -41,17 +41,18 @@
 
 ## 🏆 Featured Projects
 
-### [Warehouse Management System](https://github.com/Prasham2181/warehouse-management-system)
-A comprehensive warehouse management solution built with Python and Qt, featuring inventory tracking, order management, and real-time stock updates. Implements MySQL database integration for robust data management.
 
-### [Camera Calibration using Zhang's Method](https://github.com/Prasham2181/Calibration)
+### [Camera Calibration using Zhang's Method](https://github.com/Prasham2181/AutoCalib-Camera-Calibration)
 Implementation of Zhang's camera calibration technique using OpenCV and Python, featuring checkerboard detection and parameter optimization.
 
-### [Stereo Vision](https://github.com/Prasham2181/Stereo-Vision)
-Stereo vision implementation for depth estimation using Python and OpenCV, including camera calibration and disparity mapping.
+### [MyAutoPano - Panorama Image Stitching](https://github.com/Prasham2181/My_AutoPano)
+Panoroma Stitching using Traditional Method and Deep learning
 
-### [Football Player Detection](https://github.com/Prasham2181/Player-Detection)
-Real-time football player detection system using YOLO and deep learning techniques.
+### [DeepMelody](https://github.com/Prasham2181/Instrument-Based-Music-Recommendation)
+DeepMelody is a project that focuses on generating personalized music recommendations by analyzing the prominence of individual instruments in audio tracks. Using machine learning techniques, the project aims to provide users with tailored music recommendations based on their instrumental preferences.
+
+### [Warehouse Management System](https://github.com/Prasham2181/Warehouse-Management-System)
+A comprehensive warehouse management solution built with Python and Qt, featuring inventory tracking, order management, and real-time stock updates. Implements MySQL database integration for robust data management.
 
 ## 📈 GitHub Activity Graph
 
@@ -60,11 +61,11 @@ Real-time football player detection system using YOLO and deep learning techniqu
 ## 🎯 Current Focus
 
 - Advanced Computer Vision Applications
-- Deep Learning for Object Detection
+- Deep Learning Robotics Applications
 - Camera Calibration Techniques
 - Stereo Vision and 3D Reconstruction
-- Database Management Systems
-- GUI Application Development
+- Understanding Robots
+- Kinematics, Dynamics and Physics for Robots
 
 ## 📫 How to Reach Me
 
