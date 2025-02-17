@@ -9,15 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a Computer Vision and Deep Learning enthusiast with a strong foundation in Python and various ML frameworks
-
-🌱 Currently exploring advanced computer vision techniques and deep learning architectures
-
-🔭 Working on projects involving camera calibration, object detection, and image processing
-
-💬 Ask me about Computer Vision, Deep Learning, and Python Development
-
-⚡ Check out my [portfolio website](https://sites.google.com/view/prashamsoni/home) for more details about my work!
+I'm a passionate Computer Vision and Deep Learning enthusiast with a strong foundation in Python and various ML frameworks. I love exploring innovative technologies in robotics and computer vision that have the potential to shape mankind's future. I'm continuously working on projects like camera calibration, object detection, and image processing to push the boundaries of what's possible.
 
 ## 🛠️ Technologies & Tools
 
@@ -30,6 +22,17 @@
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-0C6C9A?style=for-the-badge&logo=ros&logoColor=white)
+
+## 🤖 Robotics Highlights
+
+Here are some robotics-themed widgets to showcase my passion:
+
+<div align="center">
+  <!-- RoboHash generates a unique robot avatar based on your name -->
+  <img src="https://robohash.org/PrashamSoni.png?set=set2" alt="My Robot Avatar" width="200" style="margin: 10px;"/>
+  <img src="https://robohash.org/Robotics?set=set4" alt="Robotics" width="200" style="margin: 10px;"/>
+</div>
 
 ## 📊 GitHub Contributions
 
@@ -45,32 +48,31 @@
 ## 🏆 Featured Projects
 
 ### [Camera Calibration using Zhang's Method](https://github.com/Prasham2181/AutoCalib-Camera-Calibration)
-Implementation of Zhang's camera calibration technique using OpenCV and Python, featuring checkerboard detection and parameter optimization.
+A Python implementation of Zhang's camera calibration technique using OpenCV, featuring checkerboard detection and parameter optimization.
 
 ### [MyAutoPano - Panorama Image Stitching](https://github.com/Prasham2181/My_AutoPano)
-Panoroma Stitching using Traditional Method and Deep learning
+Panorama stitching using traditional methods combined with deep learning techniques.
 
 ### [DeepMelody](https://github.com/Prasham2181/Instrument-Based-Music-Recommendation)
-DeepMelody is a project that focuses on generating personalized music recommendations by analyzing the prominence of individual instruments in audio tracks. Using machine learning techniques, the project aims to provide users with tailored music recommendations based on their instrumental preferences.
+Generates personalized music recommendations by analyzing instrument prominence in audio tracks through machine learning.
 
 ### [Warehouse Management System](https://github.com/Prasham2181/Warehouse-Management-System)
-A comprehensive warehouse management solution built with Python and Qt, featuring inventory tracking, order management, and real-time stock updates. Implements MySQL database integration for robust data management.
+A comprehensive warehouse management solution built with Python and Qt, featuring inventory tracking, order management, and real-time stock updates with MySQL integration.
 
 ## 🎯 Current Focus
 
 - Advanced Computer Vision Applications
-- Deep Learning Robotics Applications
+- Robotics & Deep Learning
 - Camera Calibration Techniques
-- Stereo Vision and 3D Reconstruction
-- Understanding Robots
-- Kinematics, Dynamics and Physics for Robots
+- Stereo Vision & 3D Reconstruction
+- Exploring Robotics: Kinematics, Dynamics, and Physics
 
 ## 📫 How to Reach Me
 
 - 🌐 Portfolio: [prashamsoni.com](https://sites.google.com/view/prashamsoni/home)
 - 💼 LinkedIn: [Prasham Soni](https://www.linkedin.com/in/prashamsoni/)
 - 🐦 Twitter: [@SoniPrasham2181](https://x.com/SoniPrasham2181)
-- 📧 Email: Available on LinkedIn
+- 📧 Email: Connect via LinkedIn for inquiries
 
 ---
 
