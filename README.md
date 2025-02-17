@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Computer Vision and Deep Learning enthusiast with a strong foundation in Python and various ML frameworks. I love exploring innovative technologies in robotics and computer vision that have the potential to shape mankind's future. I'm continuously working on projects like camera calibration, object detection, and image processing to push the boundaries of what's possible.
+I'm a passionate Computer Vision and Deep Learning enthusiast with a strong foundation in Python and various ML frameworks. I love exploring innovative technologies in robotics and computer vision that have the potential to shape mankind's future. Currently, I'm working on projects involving camera calibration, object detection, and image processing.
 
 ## 🛠️ Technologies & Tools
 
@@ -22,17 +22,6 @@ I'm a passionate Computer Vision and Deep Learning enthusiast with a strong foun
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-0C6C9A?style=for-the-badge&logo=ros&logoColor=white)
-
-## 🤖 Robotics Highlights
-
-Here are some robotics-themed widgets to showcase my passion:
-
-<div align="center">
-  <!-- RoboHash generates a unique robot avatar based on your name -->
-  <img src="https://robohash.org/PrashamSoni.png?set=set2" alt="My Robot Avatar" width="200" style="margin: 10px;"/>
-  <img src="https://robohash.org/Robotics?set=set4" alt="Robotics" width="200" style="margin: 10px;"/>
-</div>
 
 ## 📊 GitHub Contributions
 
@@ -54,7 +43,7 @@ A Python implementation of Zhang's camera calibration technique using OpenCV, fe
 Panorama stitching using traditional methods combined with deep learning techniques.
 
 ### [DeepMelody](https://github.com/Prasham2181/Instrument-Based-Music-Recommendation)
-Generates personalized music recommendations by analyzing instrument prominence in audio tracks through machine learning.
+Generates personalized music recommendations by analyzing the prominence of instruments in audio tracks through machine learning.
 
 ### [Warehouse Management System](https://github.com/Prasham2181/Warehouse-Management-System)
 A comprehensive warehouse management solution built with Python and Qt, featuring inventory tracking, order management, and real-time stock updates with MySQL integration.
