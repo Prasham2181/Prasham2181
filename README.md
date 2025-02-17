@@ -5,6 +5,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/prashamsoni/home)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prasham2181)
 
+> "Complexity is inversely proportional to curiosity" - Prasham Soni
+
 ## 👨‍💻 About Me
 
 🎓 I'm a Computer Vision and Deep Learning enthusiast with a strong foundation in Python and various ML frameworks
@@ -29,18 +31,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prasham2181&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasham2181&theme=radical" alt="Contribution Details"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prasham2181&theme=radical" alt="Contribution Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prasham2181&theme=radical" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prasham2181&theme=radical" alt="Most Used Languages"/>
 </p>
 
 ## 🏆 Featured Projects
-
 
 ### [Camera Calibration using Zhang's Method](https://github.com/Prasham2181/AutoCalib-Camera-Calibration)
 Implementation of Zhang's camera calibration technique using OpenCV and Python, featuring checkerboard detection and parameter optimization.
@@ -53,10 +55,6 @@ DeepMelody is a project that focuses on generating personalized music recommenda
 
 ### [Warehouse Management System](https://github.com/Prasham2181/Warehouse-Management-System)
 A comprehensive warehouse management solution built with Python and Qt, featuring inventory tracking, order management, and real-time stock updates. Implements MySQL database integration for robust data management.
-
-## 📈 GitHub Activity Graph
-
-[![Prasham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prasham2181&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎯 Current Focus
 
